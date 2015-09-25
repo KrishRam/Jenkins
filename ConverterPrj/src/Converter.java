@@ -177,8 +177,8 @@ public class Converter {
 
         //Display the window.
         frame.pack();
-        frame.setVisible(true);
-        //frame.setVisible(false);
+        //frame.setVisible(true);
+        frame.setVisible(false);
     }
 
     public static void main(String[] args) {
